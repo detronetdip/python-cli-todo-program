@@ -36,6 +36,18 @@ ls
 
 ![screenshot](images/list.jpg)
 
+Mark a TODO as done or remove a TODO from the list , type
+```bash
+done
+```
+then index number.
+```bash
+remove 
+```
+then index number
+
+![screenshot](images/done_remove.jpg)
+
 if you are a windows user type 
 ```bash
 .\todo_cli.bat
