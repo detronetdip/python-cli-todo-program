@@ -12,10 +12,21 @@ if you are a linux or mac user type
 ```bash
 ./todo_cli.sh
 ```
+
 ![Screenshot](images/start.jpg)
 
-And hit enter
+For help type
+```bash
+help
+```
+![Screenshot](images/help.jpg)
 
+For adding a TODO simply type 
+```bash
+add 
+```
+the type what you want to add.
+![screenshot](images/add.jpg)
 if you are a windows user type 
 ```bash
 .\todo_cli.bat
