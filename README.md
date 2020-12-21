@@ -5,7 +5,9 @@ After cloning this repository
 if you are a linux or mac user type ./todo_cli.sh  and hit enter
 
 if you are a window user type 
-
+```bash
+pip install foobar
+```
 .\todo_cli.bat 
 
  
