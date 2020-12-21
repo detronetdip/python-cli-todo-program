@@ -12,7 +12,7 @@ if you are a linux or mac user type
 ```bash
 ./todo_cli.sh
 ```
-
+![Screenshot](start.jpg)
 
 And hit enter
 
