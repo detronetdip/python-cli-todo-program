@@ -5,6 +5,6 @@ After cloning this repository
 if you are a linux or mac user type ./todo_cli.sh  and hit enter
 
 if you are a window user type <mark> .\todo_cli.bat </span>
-<div style="background:#FAFAFA;">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+
+
+
