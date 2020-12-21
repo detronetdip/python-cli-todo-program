@@ -4,7 +4,9 @@ A simple python program to manage todo list
 After cloning this repository 
 if you are a linux or mac user type ./todo_cli.sh  and hit enter
 
-if you are a window user type .\todo_cli.bat 
+if you are a window user type 
+
+.\todo_cli.bat 
 
 
 
