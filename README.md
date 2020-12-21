@@ -1,5 +1,6 @@
 # python-cli-todo-program
-A PYTHON CLI PROGRAM TO MANAGE TO-DO
+A PYTHON CLI PROGRAM TO MANAGE TO-DO.
+
 A simple python program to manage todo list
 To use this first clone this repository.
 
