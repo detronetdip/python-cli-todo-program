@@ -8,7 +8,7 @@ To clone this repository first go to terminal then go to the directory where you
 ```bash
 git clone https://github.com/dazal-32/python-cli-todo-program.git
 ```
-if you are a linux or mac user type 
+Then if you are a linux or mac user type 
 ```bash
 ./todo_cli.sh
 ```
