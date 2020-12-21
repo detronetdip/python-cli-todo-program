@@ -26,7 +26,16 @@ For adding a TODO simply type
 add 
 ```
 the type what you want to add.
+
 ![screenshot](images/add.jpg)
+
+If you want to see all TODOs type
+```bash
+ls
+```
+
+![screenshot](images/list.jpg)
+
 if you are a windows user type 
 ```bash
 .\todo_cli.bat
