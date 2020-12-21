@@ -1,16 +1,20 @@
 # python-cli-todo-program
 A PYTHON CLI PROGRAM TO MANAGE TO-DO
 A simple python program to manage todo list
-After cloning this repository 
+To use this first clone this repository
+To clone this repository type
+```bash
+
+```
 if you are a linux or mac user type 
 ```bash
 ./todo_cli.sh
 ```
 
 
-and hit enter
+And hit enter
 
-if you are a window user type 
+if you are a windows user type 
 ```bash
 .\todo_cli.bat
 ```
