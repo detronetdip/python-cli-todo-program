@@ -48,11 +48,23 @@ then index number
 
 ![screenshot](images/done_remove.jpg)
 
+See completed TODOs
+```bash
+complete 
+```
+![screenshot](images/complete.jpg)
+
+See remaining TODOs
+```bash
+remain 
+```
+![screenshot](images/remain.jpg)
+
 if you are a windows user type 
 ```bash
 .\todo_cli.bat
 ```
-And hit enter
+And hit enter and all operations are same as previous.
 
  
 
