@@ -4,7 +4,7 @@ A simple python program to manage todo list
 To use this first clone this repository
 To clone this repository type
 ```bash
-gh repo clone dazal-32/python-cli-todo-program
+git clone https://github.com/dazal-32/python-cli-todo-program.git
 ```
 if you are a linux or mac user type 
 ```bash
