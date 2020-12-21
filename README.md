@@ -2,13 +2,17 @@
 A PYTHON CLI PROGRAM TO MANAGE TO-DO
 A simple python program to manage todo list
 After cloning this repository 
-if you are a linux or mac user type ./todo_cli.sh  and hit enter
+if you are a linux or mac user type 
+'''bash 
+./todo_cli.sh 
+'''
+and hit enter
 
 if you are a window user type 
 ```bash
-pip install foobar
+.\todo_cli.bat
 ```
-.\todo_cli.bat 
+And hit enter
 
  
 
