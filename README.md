@@ -15,6 +15,11 @@ Then if you are a linux or mac user type
 
 ![Screenshot](images/start.jpg)
 
+If the previous command shows permission denied, you can use the following one
+```bash
+bash todo_cli.sh 
+```
+
 For help type
 ```bash
 help
