@@ -25,7 +25,7 @@ For adding a TODO simply type
 ```bash
 add 
 ```
-the type what you want to add.
+then type what you want to add.
 
 ![screenshot](images/add.jpg)
 
