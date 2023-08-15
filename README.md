@@ -20,7 +20,7 @@ If the previous command shows permission denied, you can use the following one
 ```bash
 bash todo_cli.sh 
 ```
-Finally run 
+Finally to run the python script, type: 
 ```bash
 py Todo_Cli.py
 ```
