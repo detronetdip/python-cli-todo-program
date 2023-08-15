@@ -20,7 +20,10 @@ If the previous command shows permission denied, you can use the following one
 ```bash
 bash todo_cli.sh 
 ```
-
+Finally run 
+```bash
+py Todo_Cli.py
+```
 For help type
 ```bash
 help
